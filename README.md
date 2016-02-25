@@ -6,3 +6,6 @@ une demo de git qui se passe bien
 
 et maintenant, depuis ma machine
 
+c'est cool
+
+
